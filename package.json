@@ -1,0 +1,16 @@
+{
+  "name": "think-first-ai",
+  "version": "1.0.0",
+  "description": "A critical thinking and writing skills development platform",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest",
+    "start": "serve ."
+  },
+  "keywords": ["ai", "critical-thinking", "writing", "hackathon"],
+  "author": "Yasitha",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
